@@ -1,0 +1,113 @@
+###########################################
+# Syntax Coloring Map For LiquidCrystal_I2C
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+LiquidCrystal_I2C	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+init	KEYWORD2
+begin	KEYWORD2
+clear	KEYWORD2
+home	KEYWORD2
+noDisplay	KEYWORD2
+display	KEYWORD2
+noBlink	KEYWORD2
+blink	KEYWORD2
+noCursor	KEYWORD2
+cursor	KEYWORD2
+scrollDisplayLeft	KEYWORD2
+scrollDisplayRight	KEYWORD2
+leftToRight	KEYWORD2
+rightToLeft	KEYWORD2
+shiftIncrement	KEYWORD2
+shiftDecrement	KEYWORD2
+noBacklight	KEYWORD2
+backlight	KEYWORD2
+autoscroll	KEYWORD2
+noAutoscroll	KEYWORD2
+createChar	KEYWORD2
+setCursor	KEYWORD2
+print	KEYWORD2
+blink_on	KEYWORD2
+blink_off	KEYWORD2
+cursor_on	KEYWORD2
+cursor_off	KEYWORD2
+setBacklight	KEYWORD2
+load_custom_character	KEYWORD2
+printstr	KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################
+
+
+#######################################
+# Syntax Coloring Map For DS1302RTC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DS1302RTC KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+get      KEYWORD2
+set      KEYWORD2
+read     KEYWORD2
+write    KEYWORD2
+
+readRTC  KEYWORD2
+readRAM  KEYWORD2
+writeRTC KEYWORD2
+writeRAM KEYWORD2
+
+haltRTC  KEYWORD2
+writeEN  KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+RTC
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+#######################################
+# Syntax Coloring Map For Time
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+time_t	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+now	KEYWORD2
+second	KEYWORD2
+minute	KEYWORD2
+hour	KEYWORD2
+day	KEYWORD2
+month	KEYWORD2
+year	KEYWORD2
+isAM	KEYWORD2
+isPM	KEYWORD2
+weekday	KEYWORD2
+setTime	KEYWORD2
+adjustTime	KEYWORD2
+setSyncProvider	KEYWORD2
+setSyncInterval	KEYWORD2
+timeStatus	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
